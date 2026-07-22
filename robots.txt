@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/public-flash-Usdtgenerator/Flash-USDT-Generator-.git/sitemap.xml
